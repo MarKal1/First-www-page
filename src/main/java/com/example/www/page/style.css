@@ -9,8 +9,9 @@ body{
 background-color: #FFD700;
 }
 
-header{
-
+header img {
+width:100%;
+display:block;
 }
 
 
