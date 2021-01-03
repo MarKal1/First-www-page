@@ -46,6 +46,7 @@ background-color:#000000;
 article {
 margin-top: 30px;
 margin-bottom: 20px;
+padding: 0 20px;
 }
 
 h1{
@@ -54,5 +55,36 @@ padding-bottom:20px;
 border-bottom: 3px solid red;
 font-size:45px;
 text-align: center;
-color:#FF00FF;
+color:black;
+}
+
+img.left{
+float:left;
+padding: 5 px;
+border-right: 5 px;
+width:50%;
+
+
+}
+
+article p{
+border-left:10px;
+text-align: justify;
+line-height: 27px;
+font-size:22 px;
+padding:10px;
+
+}
+
+iframe{
+width: 100%;
+}
+
+footer{
+height:40px;
+text-align: right;
+background-color: #008080;
+color:white;
+line-height: 40px;
+
 }
