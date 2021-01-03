@@ -37,7 +37,20 @@ text-align: center;
 a.menu:hover {
 background-color: #DAA520;
 font-size: 20px;
+color: #FF00FF;
 }
 .active {
-background-color:#000000
+background-color:#000000;
+}
+
+article {
+margin-top: 30px;
+margin-bottom: 20px;
+}
+
+h1{
+font-size:45px;
+text-align: center;
+color:#FF00FF;
+
 }
